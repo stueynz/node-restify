@@ -1,9 +1,6 @@
 # restify Changelog
 
-## not yet released
-
-
-## 4.2.0.stu
+## 4.2.1
 - Pass opts through to IncomingForm on multi-part parser.
 
 ## 4.2.0
