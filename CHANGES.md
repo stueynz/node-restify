@@ -1,6 +1,7 @@
 # restify Changelog
 
-## not yet released
+## $version
+- Pass opts through to IncomingForm on multi-part parser.
 
 ## 4.2.0
 
