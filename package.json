@@ -35,8 +35,9 @@
     "Richardo Stuven",
     "Shaun Berryman",
     "Steve Mason",
+    "Stuart McGrigor",
     "Trent Mick",
-    "Yunong Xiao"
+    "Yunong Xiao"    
   ],
   "name": "restify",
   "homepage": "http://restifyjs.com",
@@ -62,7 +63,7 @@
     "bunyan": "^1.4.0",
     "csv": "^0.4.0",
     "escape-regexp-component": "^1.0.2",
-    "formidable": "git://github.com/stueynz/node-formidable.git#v1.0.14.stu",
+    "formidable": "git://github.com/stueynz/node-formidable.git#v1.0.14-stu",
     "http-signature": "^0.11.0",
     "keep-alive-agent": "^0.0.1",
     "lru-cache": "^4.0.1",
