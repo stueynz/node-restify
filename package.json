@@ -62,7 +62,7 @@
     "bunyan": "^1.4.0",
     "csv": "^0.4.0",
     "escape-regexp-component": "^1.0.2",
-    "formidable": "^1.0.14",
+    "formidable": "git://github.com/stueynz/formidable.git#v1.0.14.stu"
     "http-signature": "^0.11.0",
     "keep-alive-agent": "^0.0.1",
     "lru-cache": "^4.0.1",
